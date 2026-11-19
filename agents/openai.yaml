@@ -1,0 +1,4 @@
+interface:
+  display_name: "human"
+  short_description: "让AI说人话"
+  default_prompt: "用 $human，表达自然、清楚，语气适合当前场合，保留通顺的书面表达。"
